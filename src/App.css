@@ -1,0 +1,44 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.react-awesome-typewriter::after {
+  content: "";
+  display: inline-block;
+  animation-name: blink;
+  animation-iteration-count: infinite;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  49% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.text-secondary {
+  color: #535bf2;
+}
+
+.text-primary {
+  color: #f2a154;
+}
+
+.text-big {
+  font-size: 2rem;
+}
+
+.text-small {
+  font-size: 1.25rem;
+}
