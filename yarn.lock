@@ -1517,10 +1517,10 @@ queue-microtask@^1.2.2:
   resolved "https://registry.npmjs.org/queue-microtask/-/queue-microtask-1.2.3.tgz"
   integrity sha512-NuaNSa6flKT5JaSYQzJok04JzTL1CA6aGhv5rfLW3PgqA+M2ChpZQnAC8h8i4ZFkBS8X5RqkDBHA7r4hej3K9A==
 
-react-awesome-typewriter@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/react-awesome-typewriter/-/react-awesome-typewriter-1.0.6.tgz#65a2c1d1b656fda7c7ea83d72f3983f60186d405"
-  integrity sha512-Hvuv/fZRAr7j+f4LCI2+ERQCDr4oKiFcrjio8G9xOsIN8yLjgInLrOcjCLc+B8hJZXuu/tCtARv+zEpDLtBjjw==
+react-awesome-typewriter@^1.0.7:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/react-awesome-typewriter/-/react-awesome-typewriter-1.0.7.tgz#394c901680cb7ac2c288155afbbf8bf074477e34"
+  integrity sha512-l3SZQNoWu8WcZ1VWW5FSINkluheh2Njuw06Wjz0rlnK80qCgsEJks+kQYvm692Z8je40tCD35jgmVge8Pem3yQ==
   dependencies:
     "@types/react" "^18.2.28"
     "@types/react-dom" "^18.2.13"

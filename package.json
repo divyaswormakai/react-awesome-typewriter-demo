@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-awesome-typewriter": "^1.0.6",
+    "react-awesome-typewriter": "^1.0.7",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {

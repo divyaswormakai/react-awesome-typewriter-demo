@@ -34,11 +34,21 @@ function App() {
       <h1>
         <ReactAwesomeTypewriter
           options={[[{ text: "React Awesome Typewriter" }]]}
+          forwardSpeed={300}
+          waitTime={5000}
+          backwardSpeed={150}
+          typeWriterId="react-awesome-typewriter-1"
         />
       </h1>
       <div style={{ height: "80px" }}>
         <p>
-          <ReactAwesomeTypewriter options={options} cursorGap="5px" />
+          <ReactAwesomeTypewriter
+            options={options}
+            cursorGap="5px"
+            cursorColor="#09F997"
+            cursorHeight="1.5em"
+            typeWriterId="react-awesome-typewriter-2"
+          />
         </p>
       </div>
 
